@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RF99ConsoleApp", "RF99ConsoleApp\RF99ConsoleApp.csproj", "{B4072D87-C85D-48E3-8BEA-3CEBC2232A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4072D87-C85D-48E3-8BEA-3CEBC2232A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4072D87-C85D-48E3-8BEA-3CEBC2232A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4072D87-C85D-48E3-8BEA-3CEBC2232A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4072D87-C85D-48E3-8BEA-3CEBC2232A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7150931-EE52-4E3C-846D-09EAE906F3FD}
+	EndGlobalSection
+EndGlobal
